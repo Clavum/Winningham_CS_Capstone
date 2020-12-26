@@ -1,2 +1,3 @@
 # Winningham_CS_Capstone
-The files for my computer science capstone project
+https://mybinder.org/v2/gh/Clavum/Winningham_CS_Capstone/main
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Clavum/Winningham_CS_Capstone/main)
