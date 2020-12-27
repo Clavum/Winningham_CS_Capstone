@@ -14,6 +14,6 @@ dependencies:
   - pip
   - future
   - pandas
+  - ipyleaflet
   - ipywidgets
-  - seaborn
   - voila
