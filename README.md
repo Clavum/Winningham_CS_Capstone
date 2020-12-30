@@ -1,7 +1,8 @@
 # Winningham_CS_Capstone
 https://hub.gke2.mybinder.org/user/clavum-winningham_cs_capstone-mxa206hb/voila/render/main_page.ipynb
 
-Click the link above to go to the program's dashboard
+Click the link above to go to the program's dashboard. Please wait for graphs to load
+
 
 To see the program's code, click the link below
 
